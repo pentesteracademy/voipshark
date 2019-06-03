@@ -42,10 +42,11 @@ VoIPShark will enable the user to do the following:
 
 Download VoIPShark and copy lockbox folder to wireshark program directory.
 
-To find out the location of wireshark program directory, check `Help > About Wireshark > Folders`
+To find out the location of wireshark program directory, check `Help > About Wireshark > Folders` (highlighted in green)
 <p align="center">
-<img src="https://user-images.githubusercontent.com/25884689/58717964-02e56d00-83ff-11e9-9b15-244dcca4c9e8.png" width="400px" height="300px" >
+<img src="https://user-images.githubusercontent.com/25884689/58771844-ee64c880-85e8-11e9-95be-2af3e7d60504.png" width="60%" >
 </p>
+
 
 
 ### Step 2: Installing VoIPShark
@@ -53,7 +54,7 @@ To find out the location of wireshark program directory, check `Help > About Wir
 1. Copy the "plugins" directory to Wireshark personal plugins directory.
 2. Start wireshark. :)
 
-One can get the location of wireshark plugins directory by checking `Help > About Wireshark > Folders`
+One can get the location of wireshark plugins directory by checking `Help > About Wireshark > Folders` (highlighted in yellow)
 
 ![](https://user-images.githubusercontent.com/743886/43845711-72426d36-9ae1-11e8-9945-0bbe8e078e2a.png)
 
