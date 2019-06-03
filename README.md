@@ -2,14 +2,13 @@
 
 ## VoIPShark: Open Source VoIP Analysis Platform
 
-VoIPshark is an open source platform for VoIP analysis. It is compatible with Wireshark. After installation, it can be triggered automatically or manually within the Wireshark.
+VoIPshark is an open source platform for VoIP analysis. It is created as a collection of Wireshark plugins. After installation, it will be available within Wireshark. This platform was created while working on "VoIP Traffic Analysis" course. Those interested can check the course here: https://www.pentesteracademy.com/course?id=43
 
 VoIPShark will enable the user to do the following:
 
-
 1. Perform macro analysis on VoIP traffic
-2. Decrypt live or stored traffic while preserving packet structure and time information
-3. Export audio to popular media formats
+2. Decrypt live or stored VoIP traffic while preserving packet structure and time information
+3. Export VoIP audio streams to popular media formats
 4. Detect the following threats/attacks
 
    * Message flood
@@ -47,7 +46,7 @@ To find out the location of wireshark program directory, check `Help > About Wir
 
 ### Step 2: Installing VoIPShark
 
-1. Copy the "plugins" directory to Wireshark plugins directory.
+1. Copy the "plugins" directory to Wireshark personal plugins directory.
 2. Start wireshark. :)
 
 One can get the location of wireshark plugins directory by checking `Help > About Wireshark > Folders`
@@ -61,6 +60,10 @@ One can get the location of wireshark plugins directory by checking `Help > Abou
 - Jeswin Mathai, Security Researcher, Pentester Academy <jeswin@binarysecuritysolutions.com> 
 
 Under the guidance of Mr. Vivek Ramachandran, CEO, Pentester Academy
+
+## Sister Project
+
+PA-Toolkit (https://github.com/pentesteracademy/patoolkit)
 
 ## Screenshots
 
