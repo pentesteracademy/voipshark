@@ -54,6 +54,18 @@ One can get the location of wireshark plugins directory by checking `Help > Abou
 
 ![](https://user-images.githubusercontent.com/743886/43845711-72426d36-9ae1-11e8-9945-0bbe8e078e2a.png)
 
+
+## Tool featured at
+
+- DEF CON China 1.0 Main stage <https://www.defcon.org/html/dc-china-1/dc-cn-1-speakers.html>
+- Blackhat Asia 2019 Arsenal <https://www.blackhat.com/asia-19/arsenal/schedule/index.html#voip-wireshark-attack-defense-toolkit-14349>
+
+
+## Sister Project
+
+PA-Toolkit (https://github.com/pentesteracademy/patoolkit)
+
+
 ## Author
 
 - Nishant Sharma, R & D Manager, Pentester Academy <nishant@binarysecuritysolutions.com>
@@ -62,9 +74,6 @@ One can get the location of wireshark plugins directory by checking `Help > Abou
 
 Under the guidance of Mr. Vivek Ramachandran, CEO, Pentester Academy
 
-## Sister Project
-
-PA-Toolkit (https://github.com/pentesteracademy/patoolkit)
 
 ## Screenshots
 
