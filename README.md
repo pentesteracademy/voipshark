@@ -1,7 +1,3 @@
-#### **Code will be added soon!**
-<br>
-<br>
-
 <img src="https://user-images.githubusercontent.com/25884689/58698021-04963d00-83cd-11e9-8962-54a3b36a12b2.png" width="50%" >
 
 ## VoIPShark: Open Source VoIP Analysis Platform
